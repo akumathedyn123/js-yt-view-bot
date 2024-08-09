@@ -1,4 +1,4 @@
-# Puppeteer-Powered High-Performance Video Playback Automation
+# Puppeteer-Powered High-Performance Video Playback Automation 
 
 **Description:**
 
