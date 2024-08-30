@@ -1,5 +1,5 @@
 # Puppeteer-Powered High-Performance Video Playback Automation 
-
+ 
 **Description:**
 
 This Node.js project offers a robust and scalable solution for automating video playback using Puppeteer. It caters to various use cases requiring efficient video processing and playback control. This can be used as youtube view bot.
